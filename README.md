@@ -1,5 +1,5 @@
 # ToDoList
-A simple To-Do List web application with a Node/Express back end, connected to MongoDB Atlas using Mongoose. 
+A simple To-Do List web application with a Node/Express back end, connected to MongoDB Atlas using Mongoose. This application allows users to create multiple to-do lists (work/study/chores/etc.) and stores the to-do tasks into databases.
 <br><br>
 ![image](todolist-preview.png)
 <br><br>
